@@ -1,0 +1,9 @@
+{
+  "name": "@lukadriel/webfont-medical-icons",
+  "version": "1.0.0",
+  "description": "A set of medical icons, rewrite of webfont-medical-icons",
+  "main": "index.js",
+  "author": "Yozan Bi Adriel",
+  "license": "MIT",
+  "private": false
+}

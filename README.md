@@ -10,7 +10,7 @@ Import the icons you want to use as follow:
 ```html
 <template>
   <div>
-    <q-icon :name="tabMenu" />
+    <q-icon :name="medAccessibility" />
     <q-btn :icon="medAdministration" />
   </div>
 </template>
